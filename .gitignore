@@ -1,0 +1,15 @@
+# osx
+.DS_Store
+
+## Haskell build
+dist
+*.hi
+*.o
+.stack-work/
+
+## Editor ignores
+TAGS
+*~
+*.swp
+
+

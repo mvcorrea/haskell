@@ -1,0 +1,6 @@
+site: https://www.futurelearn.com/courses/functional-programming-haskell/
+book: http://www.cs.nott.ac.uk/~pszgmh/pih.html
+
+In support of this new online Haskell course, there is currently a 25% 
+discount for the new edition of Programming in Haskell - just enter the 
+code PIHMOOC on the Cambridge University Press website.
